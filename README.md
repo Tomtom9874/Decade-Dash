@@ -1,5 +1,5 @@
 # Decade-Dash
-Project for Hacklahoma 2021
+Project for Hacklahoma 2021. Created in less than a 24 hour period.
 
 ## Inspiration
 Decade Dash was inspired by retro video games, especially the popular platformer game Super Mario Bros. Decade Dash draws creativity from past decades (70s, 80s, 90s, 00s) and uses it to build each level.
