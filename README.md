@@ -29,4 +29,4 @@ Going forward, our team will add more content (levels, enemies, power-ups, etc.)
 * unity
 
 ## Try it out
-<play.unity.com>
+<https://play.unity.com>
