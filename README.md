@@ -29,4 +29,4 @@ Going forward, our team will add more content (levels, enemies, power-ups, etc.)
 * unity
 
 ## Try it out
-[play.unity.com](https://https://play.unity.com/mg/other/webgl-build-v2)
+[play.unity.com](https://play.unity.com/mg/other/webgl-build-v2)
